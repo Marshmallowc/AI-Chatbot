@@ -1,7 +1,7 @@
 # AI-Chatbot
 
 <div align="center">
-  <img src="public/purple-chat-logo.png" alt="AI-Chatbot Logo" width="150" />
+  <img src="public/image.png" alt="AI-Chatbot Logo" width="150" />
   <p>一个基于Gemini API的智能聊天助手，优雅的紫色界面让每次对话都充满愉悦。</p>
 </div>
 
@@ -54,8 +54,7 @@
 ## 📸 界面预览
 
 <div align="center">
-  <img src="public/screenshot-closed.png" alt="聊天界面关闭状态" width="400" />
-  <img src="public/screenshot-open.png" alt="聊天界面打开状态" width="400" />
+  <img src="public/open.png" alt="聊天界面打开状态" width="400" />
 </div>
 
 ## 💡 使用提示
